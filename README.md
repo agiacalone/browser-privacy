@@ -10,7 +10,6 @@ Basic (everyone should use some version of these with minimal breaking)
 	- [Adguard DNS](https://adguard-dns.io/en/welcome.html)
 	- [Pi-hole](https://pi-hole.net)
 	- [NextDNS](https://nextdns.io) ($)
-- [Tor Browser](https://www.torproject.org)
 
 Intermediate (not for everyone -- some technical knowledge needed and some breaking may happen)
 ---
@@ -18,6 +17,7 @@ Intermediate (not for everyone -- some technical knowledge needed and some break
 - [CleanLinks](https://github.com/Cimbali/CleanLinks)
 - [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
 - [User-Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher)
+- [Tor Browser](https://www.torproject.org)
 
 Advanced (will probably break something or more technical knowledge needed)
 ---
