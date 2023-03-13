@@ -7,7 +7,7 @@ Basic (everyone should use some version of these with minimal breaking)
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [DeCentralEyes](https://git.synz.io/Synzvato/decentraleyes)
 - DNS blocklists (replace your ISP's DNS provider with one of these)
-	- [Adguard DNS](https://adguard-dns.io/en/welcome.html)
+	- [AdGuard DNS](https://adguard-dns.io/en/welcome.html)
 	- [Pi-hole](https://pi-hole.net)
 	- [NextDNS](https://nextdns.io) ($)
 
