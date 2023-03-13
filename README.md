@@ -12,7 +12,7 @@ Basic (everyone should use some version of these with minimal breaking)
 	- [NextDNS](https://nextdns.io) ($)
 - [Tor Browser](https://www.torproject.org)
 
-Intermediate (not for everyone -- some technical knowledge needed)
+Intermediate (not for everyone -- some technical knowledge needed and some breaking may happen)
 ---
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers)
 - [CleanLinks](https://github.com/Cimbali/CleanLinks)
